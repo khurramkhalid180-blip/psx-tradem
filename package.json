@@ -1,0 +1,6 @@
+{
+  "name": "psx-tradem",
+  "version": "6.4.0",
+  "private": true,
+  "engines": { "node": "20.x" }
+}
